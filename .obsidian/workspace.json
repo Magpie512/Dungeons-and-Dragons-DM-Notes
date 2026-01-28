@@ -11,10 +11,15 @@
             "id": "e7acba97843944f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Readme"
             }
           }
         ]
@@ -147,23 +152,14 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "d7b731fbc1def41a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,12 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b05d62004f6d2dc2",
+  "active": "e7acba97843944f1",
   "lastOpenFiles": [
-    "- Attachments/Pasted image 20260125164322.png",
     "Readme.md",
-    "Dungeons-and-Dragons-DM-Notes",
     "- Attachments/Pasted image 20260127120440.png",
+    "- Attachments/Pasted image 20260125164322.png",
+    "Dungeons-and-Dragons-DM-Notes",
     "Campaigns/One Shots/The Lantern of Hallowmere/The Lantern of Hallowmere.md",
     "Campaigns/One Shots/The Lantern of Hallowmere/ACT I.md",
     "Campaigns/One Shots/The Lantern of Hallowmere/Encounters/Untitled.md",

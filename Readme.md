@@ -2,7 +2,12 @@ Here's a collection of my dungeon master notes for DnD 5e
 Official Modules and otherwise. If I have ran it I have the notes.
 
 #### My Online Resources:
-* Character Sheets
+* [Character Sheets](https://www.dndbeyond.com/en)
+* [5e System References](https://5e.tools/)
+* [Digital Playfield](https://www.owlbear.rodeo/)
+
+#### DM Tools
+* [Token Maker](https://tacticaltokens.com/token-creator/)
 
 #### My Obsidian Plugins:
 * Admonition
@@ -13,7 +18,6 @@ Official Modules and otherwise. If I have ran it I have the notes.
 * Fantasy Statblocks
 * Folder Note
 * Folder Note view mode
-* Git
 * Iconize
 * Quick Tagger
 * Style Settings
