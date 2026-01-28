@@ -5,7 +5,7 @@ Official Modules and otherwise. If I have ran it I have the notes.
 * Official Modules
 
 * Hombrew Modules
-	[The Lantern of Hallowmere - Mara Briggs](https://magpie512.github.io/Dungeons-and-Dragons-DM-Notes/Campaigns\One-Shots\The-Lantern-of-Hallowmere)
+	[The Lantern of Hallowmere - Mara Briggs](https://magpie512.github.io/Dungeons-and-Dragons-DM-Notes/Campaigns/One Shots/The Lantern of Hallowmere)
 
 #### Rules, References & Databases
 
@@ -95,7 +95,8 @@ Offline monster & encounter manager.
 
 - **[Obsidian](https://obsidian.md/)** 
 	Organizational heaven delivered in markdown.
-- **Notion Templates for DnD** — Campaign dashboards, NPC databases.
+- **Notion Templates for DnD**
+	Campaign dashboards, NPC databases.
 - **[LegendKeeper](https://www.legendkeeper.com/)**
 	Wiki-style campaign world with map pins.
 - **[Kanka.io](https://kanka.io/)**
