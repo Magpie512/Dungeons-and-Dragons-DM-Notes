@@ -11,7 +11,7 @@
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | 10 (+0) | 14 (+2) | 14 (+2) | 9 (-1) | 12 (+1) | 13 (+1) |
 > ---
-> **Saving Throws:**
+>**Saving Throws:**
 > **Strength:** +0                  **Dexterity:** +9
 > **Constitution:** +9           **Intelligence:** -1
 > **Wisdom:** +1                   **Charisma:** +1

@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "981a0f37509e2e54",
+        "id": "e07e4c1cd8c00e73",
         "type": "tabs",
         "children": [
           {
-            "id": "e7acba97843944f1",
+            "id": "00488509672021fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/One Shots/The Lantern of Hallowmere/ACT IV.md",
+                "file": "Campaigns/One Shots/The Lantern of Hallowmere/The Lantern of Hallowmere.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ACT IV"
+              "title": "The Lantern of Hallowmere"
             }
           }
         ]
@@ -174,40 +174,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "quick-tagger:Add tag to current note": false,
       "quick-tagger:Remove tag from current note": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7acba97843944f1",
+  "active": "00488509672021fb",
   "lastOpenFiles": [
-    "Campaigns/One Shots/The Lantern of Hallowmere.rar",
-    "Campaigns/One Shots/The Lantern of Hallowmere/ACT II.md",
-    "Campaigns/One Shots/The Lantern of Hallowmere/ACT I.md",
-    "Campaigns/One Shots/The Lantern of Hallowmere/ACT III.md",
-    "Campaigns/One Shots/The Lantern of Hallowmere/ACT IV.md",
+    "Campaigns/One Shots/The Lantern of Hallowmere/Acts/ACT II.md",
+    "Campaigns/One Shots/The Lantern of Hallowmere/The Lantern of Hallowmere.md",
+    "Campaigns/One Shots/The Lantern of Hallowmere/Acts",
+    "Campaigns/One Shots/The Lantern of Hallowmere/Acts/ACT I.md",
+    "Campaigns/One Shots/The Lantern of Hallowmere/Encounters/Reflections.md",
+    "Campaigns/One Shots/The Lantern of Hallowmere/Encounters/Collectors.md",
     "Campaigns/One Shots/The Lantern of Hallowmere/Encounters/Guardian.md",
     "Campaigns/One Shots/The Lantern of Hallowmere/Encounters/Crocodile.md",
-    "Campaigns/One Shots/The Lantern of Hallowmere/Items/Charm.md",
-    "Campaigns/One Shots/The Lantern of Hallowmere/The Lantern of Hallowmere.md",
-    "-- Templates/Encounter Template.md",
-    "Campaigns/One Shots/The Lantern of Hallowmere/Encounters/Collectors.md",
-    "Campaigns/One Shots/The Lantern of Hallowmere/Encounters/Reflections.md",
     "Campaigns/One Shots/The Lantern of Hallowmere/Encounters/Ooze.md",
+    "Campaigns/One Shots/The Lantern of Hallowmere/Characters/The Child.md",
+    "Campaigns/One Shots/The Lantern of Hallowmere/Characters/The Fisherman.md",
+    "Campaigns/One Shots/The Lantern of Hallowmere/Characters/The Mayor.md",
+    "Campaigns/One Shots/The Lantern of Hallowmere/Characters/The Hermit.md",
+    "Campaigns/One Shots/The Lantern of Hallowmere/Acts/ACT IV.md",
+    "Campaigns/One Shots/The Lantern of Hallowmere.rar",
+    "Campaigns/One Shots/The Lantern of Hallowmere/Acts/ACT III.md",
+    "Campaigns/One Shots/The Lantern of Hallowmere/Items/Charm.md",
+    "-- Templates/Encounter Template.md",
     "Campaigns/One Shots/The Lantern of Hallowmere/Characters/Lost Child.md",
     "Untitled.base",
     "-- Templates/NPC Character Sheet.md",
     "-- Templates/Item Template.md",
     "Readme.md",
     "Campaigns/Lost Mines of Phandelver",
-    "Campaigns/One Shots/The Lantern of Hallowmere/Characters/The Hermit.md",
     "Lore/Calendar.md",
     "Campaigns/One Shots/The Lantern of Hallowmere/Items",
-    "Campaigns/One Shots/The Lantern of Hallowmere/Characters/The Child.md",
-    "Campaigns/One Shots/The Lantern of Hallowmere/Characters/The Mayor.md",
     "- Attachments/Pasted image 20260127120440.png",
     "- Attachments/Pasted image 20260125164322.png",
     "Dungeons-and-Dragons-DM-Notes",
-    "Campaigns/One Shots/The Lantern of Hallowmere/Characters/The Fisherman.md",
     "Campaigns/One Shots/The Lantern of Hallowmere/Encounters",
     "-- Templates/Player Character Sheet.md",
     "- Attachments",
@@ -217,8 +217,6 @@
     "Campaigns/One Shots/The Lantern of Hallowmere/Characters",
     "-- Character/Combat.md",
     "-- Character/Quick Sheet.md",
-    "Campaigns",
-    "-- Character",
     "- Attachments/Pasted image 20260121094822.png",
     "Untitled.canvas",
     "- Attachments/Pasted image 20260120081854.png",

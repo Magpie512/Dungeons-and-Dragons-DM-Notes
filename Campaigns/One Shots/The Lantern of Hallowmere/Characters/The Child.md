@@ -51,6 +51,7 @@ Tessa has advantage on saving throws against illusions and being Charmed. She ca
 ---
 
 ### Inventory
+Necklace once belonging to her mother.
 
 ---
 
