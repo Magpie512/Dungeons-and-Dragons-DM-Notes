@@ -33,7 +33,7 @@ If reduced to 0 hit points, the wisp dissolves into fog and reforms at 1 hit poi
 **Memory Drain**
 _Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature.  
 **Hit:** 7 (2d4 + 2) psychic damage.  
-The target must succeed on a DC 12 Wisdom save or momentarily forget something important — a name, a place, a detail. The DM may impose a minor narrative effect (e.g., forgetting a password, a detail from Act I, or a personal memory).
+The target must succeed on a DC 12 Wisdom save or momentarily forget something important,  a name, a place, a detail. The DM may impose a minor narrative effect (e.g., forgetting a password, a detail from Act I, or a personal memory).
 
 ---
 

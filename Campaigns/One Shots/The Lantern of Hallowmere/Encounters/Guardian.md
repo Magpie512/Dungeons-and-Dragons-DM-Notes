@@ -41,7 +41,7 @@ If the target is within 5 feet of water, it must succeed on a DC 11 Strength sav
 **Hit:** 6 (1d8 + 2) psychic damage.  
 On a failed DC 11 Wisdom save, the target has disadvantage on its next attack roll.
 
-**Call of the Shallows (Recharge 5–6).**  
+**Call of the Shallows (Recharge 5 – 6).**  
 Each creature of the Guardian’s choice within 10 feet must make a DC 12 Wisdom save or be charmed until the end of its next turn.  
 While charmed, a creature’s speed is halved.
 

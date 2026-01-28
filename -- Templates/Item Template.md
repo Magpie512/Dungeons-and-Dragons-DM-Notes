@@ -13,12 +13,10 @@ A short, flavorful paragraph describing what the item looks like, feels like, or
 
 ---
 
-### **Mechanical Effects**
-
-**Passive Effects:**  
+### **Passive Effects:**  
 -  
 
-**Active Abilities:**  
+### **Active Abilities:**  
 - **Ability Name.** *Action/Bonus Action/Reaction.*  
   - What it does mechanically  
   - Save DCs, ranges, durations  

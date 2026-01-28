@@ -13,13 +13,11 @@ A small linen pouch filled with pale grey salt harvested from the Hollow Acre be
 
 ---
 
-### **Mechanical Effects**
-
-**Passive Effects:**  
+### **Passive Effects:**  
 - You have **advantage on saving throws** against illusions created by Will‑o’-Wisps (Debt Collectors).  
 - Marsh made entities have **disadvantage on attack rolls** against you while you are holding or wearing the charm.
 
-**Active Abilities:**  
+### **Active Abilities:**  
 - **Scatter Salt.** *Bonus Action.*  
   You scatter a pinch of the charm’s salt in a 5‑foot radius around you.  
   For 1 minute, marsh made entities cannot enter this area unless they succeed on a DC 12 Wisdom save.  
@@ -39,4 +37,4 @@ The only remaining charm made by Seren before she went missing.
 
 ---
 
-**Tags:** #Homebrew #Hallowmere
+**Tags:** # #Hallowmere #Magic-Item

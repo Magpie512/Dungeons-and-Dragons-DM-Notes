@@ -10,7 +10,7 @@ Every ripple, every whisper of fog, every flicker of blue light is the marsh tes
 >
 > - The fog thickens unnaturally, curling around their ankles like fingers.
 > - Sounds are muffled, as if the marsh is swallowing them.
-> - The air smells of wet stone, lavender, and something old — like a forgotten room being opened.
+> - The air smells of wet stone, lavender, and something old, like a forgotten room being opened.
 > - Shapes drift in the mist, never fully forming.
 
 ---

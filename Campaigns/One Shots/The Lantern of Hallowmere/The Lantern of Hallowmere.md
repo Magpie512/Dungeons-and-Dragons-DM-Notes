@@ -1,8 +1,8 @@
 # Hallowmere: A Fog‑Bound Mystery
 
-|Players|Level|Playtime|
-|---|---|---|
-|One|3–4|2–4 hours|
+| Players | Level | Playtime  |
+| ------- | ----- | --------- |
+| One     | 3–4   | 2–4 hours |
 
 **What to Expect:**  
 A mystery adventure focused on exploration, atmospheric tension, and uncovering the truth behind a cursed marsh. The player will navigate illusions, confront a desperate mage, and face a bound spirit demanding payment. Their final choice determines the fate of a missing child, the village, and the marsh itself.
