@@ -17,6 +17,7 @@ Official Modules and otherwise. If I have ran it I have the notes.
 	Turns markdown into D&D styled documents.
 
 #### Maps, Tokens & Visuals
+
 - **[Owlbear Rodeo](https://www.owlbear.rodeo/)**
 	Lightweight VTT for quick sessions.
 - **[Dungeon Scrawl](https://app.dungeonscrawl.com/)**
@@ -56,35 +57,41 @@ Official Modules and otherwise. If I have ran it I have the notes.
 
 #### Audio & Atmosphere
 
-- **Tabletop Audio** — 10‑minute ambience loops for every setting.
-- **Syrinscape** — Dynamic soundscapes and soundboards.
-- **Ambient-Mixer** — Custom ambient sound creation.
-
-### Expanded DM Tools
+- **[Tabletop Audio](https://tabletopaudio.com/soundpad.html)**
+	10‑minute ambience loops for every setting.
+- **[Syrinscape](https://syrinscape.com/)**
+	Dynamic soundscapes and soundboards.
+- **[Ambient-Mixer](https://www.ambient-mixer.com/)**
+	Custom ambient sound creation.
 
 #### Combat & Encounter Management
 
-- **Improved Initiative** — Web-based combat tracker with automation.
-- **Fight Club 5e (App)** — Offline monster & encounter manager.
-- **Tarrasque.io** — Browser-based battlemap + initiative tracker.
+- **[Improved Initiative](https://improvedinitiative.app/)**
+	Web-based combat tracker with automation.
+- **Fight Club 5e (App)** - [ios](https://apps.apple.com/us/app/fight-club-5th-edition/id901057473), [Android](https://play.google.com/store/apps/details?id=com.lionsden.fc5&hl=en_CA&pli=1)
+Offline monster & encounter manager.
 
 #### Loot, Items & Magic
 
-- **Loot Generator (Donjon)** — Treasure by CR, hoards, magic items.
-- **Magic Item Shop Generator** — Stock lists, prices, rarity filters.
-- **Attunement Tracker** — Helps players manage magic item limits.
+- **[Loot Generator (Donjon)](https://donjon.bin.sh/d20/treasure/)**
+	Treasure by CR, hoards, magic items.
+- **[Magic Item Shop Generator](https://5emagic.shop/)**
+	Stock lists, prices, rarity filters.
 
 #### Puzzles & Traps
 
-- **Puzzle Dungeon** — Ready-made puzzles with solutions.
-- **Dungeon Master’s Vault** — Tools for traps, hazards, and lairs.
+- [**Puzzle Dungeon**](https://puzzle-dungeon.github.io/)
+	Ready-made puzzles with solutions.
+- **[Dungeon Master’s Vault](https://www.dungeonmastersvault.com/)*
+	Tools for traps, hazards, and lairs.
 
 #### Campaign & Session Management
 
-- **Obsidian** 
+- **[Obsidian](https://obsidian.md/)** 
 	Organizational heaven delivered in markdown.
 - **Notion Templates for DnD** — Campaign dashboards, NPC databases.
-- **LegendKeeper** — Wiki-style campaign world with map pins.
+- **[LegendKeeper](https://www.legendkeeper.com/)**
+	Wiki-style campaign world with map pins.
 - **[Kanka.io](https://kanka.io/)**
 	Character, faction, and timeline management.
 
