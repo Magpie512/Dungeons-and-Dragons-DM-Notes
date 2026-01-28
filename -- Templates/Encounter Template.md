@@ -23,5 +23,6 @@
 
 ### **Legendary Actions**
 
+---
 
-**Tags:** #Hallowmere #Encounter
+**Tags:** 

@@ -1,6 +1,14 @@
 Here's a collection of my dungeon master notes for DnD 5e
 Official Modules and otherwise. If I have ran it I have the notes.
 
+##### Campaigns
+
+* Official Modules
+	[Lost Mines of Phandelver - Kenji Crosland](https://cros.land/a-dms-guide-to-lost-mines-of-phandelver/)
+
+* Homebrew Modules
+	The Lantern of Hallowmere - Mara Briggs
+
 #### Rules, References & Databases
 
 - **[D&D Beyond](https://www.dndbeyond.com)**
@@ -15,6 +23,10 @@ Official Modules and otherwise. If I have ran it I have the notes.
 	Create polished, book‑style PDFs for homebrew content.
 - **[The Homebrewery](https://homebrewery.naturalcrit.com/)**
 	Turns markdown into D&D styled documents.
+
+#### Resource & Lore Books
+* **[Z-Library](https://z-lib.gd/)** 
+	Easy accessible sources, guides, lore, resources, modules, and more. 
 
 #### Maps, Tokens & Visuals
 
@@ -89,7 +101,8 @@ Offline monster & encounter manager.
 
 - **[Obsidian](https://obsidian.md/)** 
 	Organizational heaven delivered in markdown.
-- **Notion Templates for DnD** — Campaign dashboards, NPC databases.
+- **Notion Templates for DnD**
+	Campaign dashboards, NPC databases.
 - **[LegendKeeper](https://www.legendkeeper.com/)**
 	Wiki-style campaign world with map pins.
 - **[Kanka.io](https://kanka.io/)**
