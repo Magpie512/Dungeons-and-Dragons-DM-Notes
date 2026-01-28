@@ -94,7 +94,7 @@ Offline monster & encounter manager.
 
 - [**Puzzle Dungeon**](https://puzzle-dungeon.github.io/)
 	Ready-made puzzles with solutions.
-- **[Dungeon Master’s Vault](https://www.dungeonmastersvault.com/)*
+- **[Dungeon Master’s Vault](https://www.dungeonmastersvault.com/)**
 	Tools for traps, hazards, and lairs.
 
 #### Campaign & Session Management
