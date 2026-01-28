@@ -39,4 +39,4 @@ The only remaining charm made by Seren before she went missing.
 
 ---
 
-**Tags:** #MagicItem #5e #Homebrew #Hallowmere
+**Tags:** #Homebrew #Hallowmere

@@ -40,3 +40,7 @@ While in sunlight, the shadow has disadvantage on attack rolls, ability checks, 
 The target dies if this reduces its Strength to 0.  
 The reduction lasts until the target finishes a short or long rest.  
 If a humanoid dies from this attack, a new shadow rises from the corpse after 1d4 hours.
+
+---
+
+**Tags:** #Hallowmere #Encounter

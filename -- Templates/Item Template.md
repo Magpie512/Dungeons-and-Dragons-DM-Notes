@@ -36,4 +36,4 @@ A short paragraph about the item’s origin, creator, or history.
 
 ---
 
-**Tags:** #MagicItem #5e #Homebrew
+**Tags:** 
