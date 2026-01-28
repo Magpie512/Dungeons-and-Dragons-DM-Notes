@@ -1,0 +1,63 @@
+{
+  "all_tags": true,
+  "preffered_casing": "pascalcase",
+  "priorityTags": [
+    {
+      "tag_value": "#Jasko",
+      "cut_in_line": false,
+      "add_command": false,
+      "status_bar": false,
+      "right_click": false
+    },
+    {
+      "tag_value": "#iris",
+      "cut_in_line": false,
+      "add_command": false,
+      "status_bar": false,
+      "right_click": false
+    },
+    {
+      "tag_value": "#thalia",
+      "cut_in_line": false,
+      "add_command": false,
+      "status_bar": false,
+      "right_click": false
+    },
+    {
+      "tag_value": "#slyvanaccord",
+      "cut_in_line": false,
+      "add_command": false,
+      "status_bar": false,
+      "right_click": false
+    },
+    {
+      "tag_value": "#phoenix",
+      "cut_in_line": false,
+      "add_command": false,
+      "status_bar": false,
+      "right_click": false
+    },
+    {
+      "tag_value": "#malidictum",
+      "cut_in_line": false,
+      "add_command": false,
+      "status_bar": false,
+      "right_click": false
+    },
+    {
+      "tag_value": "#Tarion",
+      "cut_in_line": false,
+      "add_command": false,
+      "status_bar": false,
+      "right_click": false
+    },
+    {
+      "tag_value": "#alric",
+      "cut_in_line": false,
+      "add_command": false,
+      "status_bar": false,
+      "right_click": false
+    }
+  ],
+  "last_used_tag": "REMOVE ALL"
+}

@@ -1,0 +1,15 @@
+{
+  "ITS@@select": "wotc-beyond",
+  "ITS@@canvas-cards": true,
+  "ITS@@paper": false,
+  "ITS@@s-d": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@accent-color": false,
+  "ITS@@drwn": false,
+  "ITS@@t-d": false,
+  "ITS@@nord": false,
+  "ITS@@its-d": false,
+  "ITS@@heading-indicator": true,
+  "ITS@@illusion": false
+}
