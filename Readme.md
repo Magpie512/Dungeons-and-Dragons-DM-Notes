@@ -5,7 +5,7 @@ Official Modules and otherwise. If I have ran it I have the notes.
 * Official Modules
 
 * Hombrew Modules
-	[The Lantern of Hallowmere - Mara Briggs](https://magpie512.github.io/Dungeons-and-Dragons-DM-Notes/Campaigns/One Shots/The Lantern of Hallowmere)
+	[The Lantern of Hallowmere - Mara Briggs](https://magpie512.github.io/Dungeons-and-Dragons-DM-Notes/Campaigns/One-Shots/The-Lantern-of-Hallowmere)
 
 #### Rules, References & Databases
 
