@@ -1,4 +1,4 @@
-# **D&D 5e – The Harptos Calendar**
+# **The Harptos Calendar**
 
 The Harptos calendar has:
 
