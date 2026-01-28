@@ -1,4 +1,4 @@
-## Shadow (Shimmering Water Manifestation)
+## **Shadow (Shimmering Water Manifestation)**
 *Medium undead, chaotic evil*
 
 **Armor Class** 12  

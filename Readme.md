@@ -24,6 +24,10 @@ Official Modules and otherwise. If I have ran it I have the notes.
 - **[The Homebrewery](https://homebrewery.naturalcrit.com/)**
 	Turns markdown into D&D styled documents.
 
+#### Resource & Lore Books
+* **[Z-Library](https://z-lib.gd/)** 
+	Easy accessible sources, guides, lore, resources, modules, and more. 
+
 #### Maps, Tokens & Visuals
 
 - **[Owlbear Rodeo](https://www.owlbear.rodeo/)**
