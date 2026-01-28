@@ -21,6 +21,7 @@
 ---
 
 ### **Traits**  
+
 **Amorphous**
 The shadow can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -29,8 +30,6 @@ While in dim light or darkness, the shadow can take the Hide action as a bonus a
 
 **Sunlight Weakness**  
 While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
-
----
 
 ### **Actions**
 

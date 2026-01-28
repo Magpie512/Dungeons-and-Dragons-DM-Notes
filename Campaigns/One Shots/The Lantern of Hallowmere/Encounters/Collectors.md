@@ -29,8 +29,6 @@ As a bonus action, the wisp creates a faint illusion of a familiar voice or silh
 **Marsh‑Tethered**
 If reduced to 0 hit points, the wisp dissolves into fog and reforms at 1 hit point at the start of its next turn unless it is inside magical light or the Lantern Keeper’s lantern aura.
 
----
-
 ### **Actions**
 **Memory Drain**
 _Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature.  
