@@ -51,6 +51,8 @@ Official Modules and otherwise. If I have ran it I have the notes.
 	Community-made random tables of every kind.
 - **[Fantasy Name Generators](https://www.fantasynamegenerators.com/)**
 	Names for races, towns, ships, monsters, etc.
+* **[RPG Tinker](https://rpgtinker.com/)**
+	Character Stat Block Generator
 
 #### NPC, Story & Worldbuilding Tools
 
