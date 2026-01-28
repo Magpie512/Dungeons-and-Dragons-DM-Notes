@@ -2,9 +2,9 @@
 
 ## **Scene 1: The Threshold of Fog**
 
-As the player approaches, the transition from the “outside world” to the marshland should feel _wrong_, like crossing into a place that you can't leave. (BECAUSE YOU CAN'T)
+As the player approaches, the transition from the “outside world” to the marshland should feel _wrong_, like crossing into a place that you shouldn't be.
 
->[!important] ## **Environmental Hooks**
+>[!note] ## **Environmental Hooks**
 >- **The Sensory Hook:**  
  >    The air grows cold and tastes faintly of salt, peat, and something metallic, like blood diluted in water. Even though it is midday, the sun is a pale, sickly disc behind a veil of fog that seems to breathe.
  >  * **The Visual:**  

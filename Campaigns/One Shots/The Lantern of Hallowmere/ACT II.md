@@ -5,7 +5,7 @@ Every ripple, every whisper of fog, every flicker of blue light is the marsh tes
 
 ---
 
->[!important] ## **Atmosphere of the Marsh**
+>[!note] ## **Atmosphere of the Marsh**
 >As the PC steps off the solid path and into the wetlands:
 >
 > - The fog thickens unnaturally, curling around their ankles like fingers.

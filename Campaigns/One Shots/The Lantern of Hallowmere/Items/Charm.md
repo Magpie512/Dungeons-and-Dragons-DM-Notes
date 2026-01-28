@@ -32,8 +32,8 @@ A small linen pouch filled with pale grey salt harvested from the Hollow Acre be
 
 ---
 
-### **Lore (Optional)**
-These charms were crafted by Seren Hollow during the early years of the fog's march onto Hallowmere. They don’t stop the marsh’s hunger, but they confuse its manifestations by masking the bearer’s emotional “scent.” 
+### **Lore**
+These charms were crafted by Seren Hollow during the early years of the fog's march onto Hallowmere. They don’t stop the marsh’s hunger, but they confuse its manifestations by masking the bearer’s emotional and mental “scent.” 
 
 The only remaining charm made by Seren before she went missing.
 

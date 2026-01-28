@@ -42,7 +42,7 @@ You choose the tone, but all paths revolve around **Kael’s rescue** and the **
 
 ---
 
-## **Option A — Combat Finale (CR 3–4)**
+## **Option A - Combat Finale**
 
 The Guardian manifests as a swirling elemental of water, fog, and memory‑light.
 
@@ -61,7 +61,7 @@ Reduce the Guardian to 0 HP or force it back into the Lantern.
 
 ---
 
-## **Option B — Social Finale (Negotiation)**
+## **Option B - Social Finale**
 
 The Guardian speaks through the fog, its voice layered with dozens of memories.
 
@@ -95,7 +95,7 @@ Failure means the Guardian lashes out, leading to combat or a forced choice.
 
 ---
 
-## **Option C — Moral Dilemma Finale**
+## **Option C - Moral Dilemma Finale**
 
 The Guardian forces the PC to choose one of three outcomes:
 
@@ -145,6 +145,7 @@ Requires a **high‑stakes ritual**:
 ---
 
 # **Ending Variants (Choose Based on Player Choices)**
+
 
 ### **1. The Village Is Saved but Changed**
 
