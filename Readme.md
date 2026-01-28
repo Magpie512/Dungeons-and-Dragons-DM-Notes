@@ -2,11 +2,12 @@ Here's a collection of my dungeon master notes for DnD 5e
 Official Modules and otherwise. If I have ran it I have the notes.
 
 ##### Campaigns
+
 * Official Modules
 	[Lost Mines of Phandelver - Kenji Crosland](https://cros.land/a-dms-guide-to-lost-mines-of-phandelver/)
 
 * Homebrew Modules
-	[The Lantern of Hallowmere - Mara Briggs](https://magpie512.github.io/Dungeons-and-Dragons-DM-Notes/Campaigns/One-Shots/The-Lantern-of-Hallowmere)
+	The Lantern of Hallowmere - Mara Briggs
 
 #### Rules, References & Databases
 
