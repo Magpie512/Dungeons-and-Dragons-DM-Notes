@@ -1,6 +1,12 @@
 Here's a collection of my dungeon master notes for DnD 5e
 Official Modules and otherwise. If I have ran it I have the notes.
 
+##### Campaigns
+* Official Modules
+
+* Hombrew Modules
+	[The Lantern of Hallowmere - Mara Briggs](https://magpie512.github.io/Dungeons-and-Dragons-DM-Notes/Campaigns\One-Shots\The-Lantern-of-Hallowmere)
+
 #### Rules, References & Databases
 
 - **[D&D Beyond](https://www.dndbeyond.com)**
