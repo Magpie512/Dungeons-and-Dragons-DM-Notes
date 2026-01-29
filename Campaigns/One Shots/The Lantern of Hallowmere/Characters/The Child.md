@@ -30,8 +30,6 @@
 **Help (Cunning Action)** 
 Tessa can take the Help action as a bonus action.
 
-### Reactions
-
 ---
 
 ### Special Abilities
