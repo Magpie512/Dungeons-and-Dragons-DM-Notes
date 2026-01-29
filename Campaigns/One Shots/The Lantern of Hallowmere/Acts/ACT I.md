@@ -87,7 +87,7 @@ As the PC prepares to head into the marsh, the fog thickens, not naturally, but 
     
 3. **The Twist:**  
     The figure points toward the marsh and whispers:  
-    _“It’s cold in the deep, [Player Name]. The debt is never paid.”_
+    _“It’s cold in the deep, [Character Name]. The debt is never paid.”_
     
 4. **The Combat/Action:**  
     Two **Reflections** (use _Shadow_ stats, but describe them as shimmering, watery versions of the PC) emerge.  
