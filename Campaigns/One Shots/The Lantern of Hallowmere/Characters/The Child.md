@@ -60,6 +60,8 @@ Necklace once belonging to her mother.
 Tessa wasn't just born an orphan; she was "made" one by the marsh. Her parents were the first to vanish when **Seren Hollow** began experimenting with the Lantern. While the other villagers hide indoors, Tessa spends her nights in the fog. She doesn't fear the "spirits", she thinks they are trying to tell her where her parents went.
 
 
+
+
 ### Appearance
 **Attire**
 She wears a patchwork cloak made of oil-cloth to keep out the damp. Around her neck hangs a "talisman", actually a shard of glass from a broken lantern lens. When the Magic Lantern is near, the shard pulses with a faint, sickly violet light.

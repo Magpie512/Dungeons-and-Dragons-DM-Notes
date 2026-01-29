@@ -22,22 +22,22 @@ Bram won’t explain what the marsh is “owed.” He mutters that “the debt�
 
 ## **Scene 2: Audience with Mayor Vance**
 
-The Mayor’s office is in the “High House,” the only stone building in town. It smells of lavender, an old Hollow family trick to mask the scent of marsh‑magic.
+The Mayor’s office is in the “High House,” one of the only stone buildings in town. It smells of lavender, coming from the numerous scented candles lit across the estate.
 
 - **The Secret:**  
     Elira Vance didn’t just hire the PC because she’s scared; she’s terrified because she knows **why** the lights have returned.  
-    Years ago, she begged **Seren Hollow** to stop a catastrophic flood. Seren bargained with the marsh, offering her family’s land, the Hollow Acre, in exchange for the waters receding.
+    Years ago, she begged **Seren Hollow** to stop a catastrophic flood. It is said in whispers that Seren bargained with the marsh, offering her family’s land, the Hollow Acre, in exchange for the waters receding.
+	
+	She never returned but neither did the threat of the flood.
+	
+	Whatever magic that caused the marsh's fog has been altered. Something's changed and the marsh is now marching towards the town of Hallowmere.
     
-    But the marsh demanded more:  
-    **“What is taken must be replaced.”**  
-    The fog is the marsh collecting its payment in **memory, identity, and selfhood**.
-    
-    Elira has hidden this truth for years.
+    Nobody knows Seren was the reason the flood stopped. They also don't know she might be in danger. Elira has hidden this truth for years from the general populace.
     
 - **The Skill Challenge:**
     
     - **Insight (DC 13):**  
-        The PC notices Elira clutching a small charm. She claims it’s for “good luck,” but she’s lying.  
+        The PC notices **Elira** clutching a small charm. She claims it’s for “good luck,” but she’s lying.  
         It’s the last remaining **Marsh-Salt Charm** **Seren** made before vanishing.
         
     - **Persuasion (DC 15):**  
@@ -45,13 +45,13 @@ The Mayor’s office is in the “High House,” the only stone building in town
         She pales when she says this, because she knows children have the brightest memories… and the marsh is hungry.
 
 >[!note] 
->If the PC agrees to investigate the marsh or prepares to leave the High House, Elira hesitates, then offers the **Marsh‑Salt Charm**. She frames it as a practical precaution, but it’s clear she’s reluctant to part with it. It’s the last thing she has from Seren.
+>If the PC agrees to investigate the marsh and genuinely wants to help out of kindness, Elira hesitates, then offers the **Salt-Marsh Charm**. She frames it as a practical precaution, but it’s clear she’s reluctant to part with it. It’s the last thing she has from Seren.
 >* **Offering the Charm**
 >
 > If the PC agrees to investigate the marsh or prepares to leave the High House, Elira hesitates, then offers the **Marsh‑Salt Charm**. She frames it as a practical precaution, but it’s clear she’s reluctant to part with it,  it’s the last thing she has from Seren.
 >
 > - **Elira’s tone:** trying to stay authoritative, but strained
-> - **Reason given:** “It may help you if the lights come close.”
+> - **Reason given:** *“It may help you if the lights come close.”*
 > - **Subtext:** she’s giving up something deeply personal because the situation is dire
 >
 > **DM Note:**  

@@ -94,7 +94,7 @@ Elira has advantage on saving throws against being frightened while within the b
 
 **Cues:**
 - **The Tell:** She constantly polishes her signet ring when lying.
-- **The Hook:** She hires the PC not just to "stop the lights," but specifically to "retrieve a stolen artifact (the Lantern) and return it quietly." She wants the evidence buried.
+- **The Hook:** She hires the PC not just to "stop the lights," but to potentially save Seren.
 - **The Nervousness:** She insists on lanterns being lit at midday because "The shadows in this town have started growing teeth."
 
 ### Appearance
