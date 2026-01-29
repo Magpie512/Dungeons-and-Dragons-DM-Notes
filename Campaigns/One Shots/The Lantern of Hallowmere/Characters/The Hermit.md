@@ -79,7 +79,7 @@ Seren can sense disturbances in the fog. She automatically knows when the marsh 
 ### **Lore & Roleplay**
 
 **Background:**  
-Seren Hollow is the last surviving member of the Hollow line, the family that once bargained with the marsh to save Hallowmere from a catastrophic flood. When the ritual failed, the Lantern was created, binding the Marsh Guardian and replacing the flood with a fog that eats memory. Seren has spent years feeding the Lantern with her own mind to keep the village safe. She is exhausted, frightened, and unraveling, but still clings to the belief that she can protect others.
+Seren Hollow is the last surviving member of the Hollow line, she that once bargained with the marsh to save Hallowmere from a catastrophic flood. When the ritual failed, the Magic Lantern was created, binding the Marsh's Guardian and replacing the flood with a fog that eats memory. Seren has spent years feeding the Lantern with her own mind to keep the village safe. She is exhausted, frightened, and unraveling, but still clings to the belief that she can protect others.
 
 **Roleplay Notes:**
 
