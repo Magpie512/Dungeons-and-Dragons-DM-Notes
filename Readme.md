@@ -27,8 +27,12 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 	Turns markdown into D&D styled documents.
 
 #### Resource & Lore Books
-* **[Z-Library](https://z-lib.gd/)** 
+- **[Z-Library](https://z-lib.gd/)** 
 	Easy accessible sources, guides, lore, resources, modules, and more. 
+
+### Character Sheets
+- **[Hero Diary](https://heros-diary.com/)**
+	Character Sheet manager
 
 #### Maps, Tokens & Visuals
 
@@ -40,7 +44,7 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 	Simple drag‑and‑drop map creation.
 - **[2-Minute Tabletop](https://2minutetabletop.com/)**
 	Tokens, maps, assets, and art packs.
-- [**Forgotten Adventures**](https://www.forgotten-adventures.net/)
+- **[Forgotten Adventures](https://www.forgotten-adventures.net/)**
 	Huge library of map assets and tokens.
 
 #### Generators & Randomizers
