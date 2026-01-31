@@ -97,6 +97,8 @@ Offline monster & encounter manager.
 	Treasure by CR, hoards, magic items.
 - **[Magic Item Shop Generator](https://5emagic.shop/)**
 	Stock lists, prices, rarity filters.
+- **[Magic Item Creator](https://www.magicitemtool.com/)
+	Make homebrewed magic items fast.
 
 #### Puzzles & Traps
 
