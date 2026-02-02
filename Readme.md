@@ -5,10 +5,13 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 
 ##### Campaign Notes
 
-* Official Modules
-	[Lost Mines of Phandelver - Kenji Crosland](https://cros.land/a-dms-guide-to-lost-mines-of-phandelver/)
+###### Official Modules
+[Lost Mines of Phandelver - Kenji Crosland](https://cros.land/a-dms-guide-to-lost-mines-of-phandelver/)
+	[**Interactive Map of Phandalin**](https://forgottenmaps.com/phandalin/)
 
-##### Campaigns & Modules
+
+##### Campaigns & Modules3
+
 * The Lantern of Hallowmere - Mars Briggs
 
 #### Rules, References & Databases
@@ -25,19 +28,27 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 	Create polished, book‑style PDFs for homebrew content.
 - **[The Homebrewery](https://homebrewery.naturalcrit.com/)**
 	Turns markdown into D&D styled documents.
+* **[RPGbot](https://rpgbot.net/dnd5/)**
+	online resource for tabletop roleplaying games like Dungeons and Dragons
 
 #### Resource & Lore Books
+
 - **[Z-Library](https://z-lib.gd/)** 
 	Easy accessible sources, guides, lore, resources, modules, and more. 
 
-### Character Sheets
+#### Character Sheets
+
 - **[Hero Diary](https://heros-diary.com/)**
 	Character Sheet manager
+* **[Reroll](https://www.reroll.co/)**
+	Digital Character sheet with pixel art. 
 
-#### Maps, Tokens & Visuals
+#### Digital Maps, Tokens & Visuals
 
 - **[Owlbear Rodeo](https://www.owlbear.rodeo/)**
 	Lightweight VTT for quick sessions.
+* **[Roll20](https://app.roll20.net/)**
+	Another lighttweight  VTT with numerous integrations.
 - **[Dungeon Scrawl](https://app.dungeonscrawl.com/)**
 	Fast, browser-based dungeon map maker.
 - **[Dungeon Map Doodler](https://dungeonmapdoodler.com/)**
@@ -46,6 +57,8 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 	Tokens, maps, assets, and art packs.
 - **[Forgotten Adventures](https://www.forgotten-adventures.net/)**
 	Huge library of map assets and tokens.
+* **[Lost Atlus](https://lostatlas.co/)**
+	A vast collection of battle maps.
 
 #### Generators & Randomizers
 
@@ -74,6 +87,8 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 	Full world generator with cultures, borders, etc.
 - **[Eigengrau’s Generator](https://eigengrausgenerator.com/?seed=splendidsveltechrysomelid)**
 	Towns, NPCs, shops, rumors, factions.
+* **[Autorolltables](https://autorolltables.github.io/index.html)**
+	Table Generators for almost anything you need.
 
 #### Audio & Atmosphere
 
@@ -83,6 +98,8 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 	Dynamic soundscapes and soundboards.
 - **[Ambient-Mixer](https://www.ambient-mixer.com/)**
 	Custom ambient sound creation.
+* **[Soundpad](https://tabletopaudio.com/soundpad.html)**
+	Immersive, Interactive Audio Environments.
 
 #### Combat & Encounter Management
 
@@ -90,6 +107,10 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 	Web-based combat tracker with automation.
 - **Fight Club 5e (App)** - [ios](https://apps.apple.com/us/app/fight-club-5th-edition/id901057473), [Android](https://play.google.com/store/apps/details?id=com.lionsden.fc5&hl=en_CA&pli=1)
 Offline monster & encounter manager.
+* **[The Monsters Know What They're Doing](https://www.themonstersknow.com/)**
+	Blog about running more immersive and more interesting encounters.
+* **[Kobold+ Fight Club](https://koboldplus.club/)**
+	Encounter Manager
 
 #### Loot, Items & Magic
 
@@ -118,7 +139,7 @@ Offline monster & encounter manager.
 - **[Kanka.io](https://kanka.io/)**
 	Character, faction, and timeline management.
 
-#### Token & Art Tools
+#### Token, Map & Art Tools
 
 - **[Token Stamp 2](https://rolladvantage.com/tokenstamp/)**
 	Quick portrait → token converter.
@@ -128,6 +149,12 @@ Offline monster & encounter manager.
 	AI-style portrait generator (non-copyrighted).
 - **[Token Maker](https://tacticaltokens.com/token-creator/)**
 	Custom token creator.
+- **[Dungeon Mapper](https://dungeonmapper.io/)**
+	Easily print out sprawling battle maps for your tabletop RPG sessions.
+* **[Caeora](https://www.caeora.com/token-packs)**
+	Free and purchasable token packs.
+* **[1st D&D Token Collection](https://drive.google.com/drive/folders/1cyvyKO0I-C2hhtHvOP3-vBHC84l6P-9f)**
+	Google drive of Tokens
 
 #### For Sandbox / Hexcrawl DMs
 
@@ -142,6 +169,18 @@ Offline monster & encounter manager.
 	Monster builder + printable statblocks.
 - **[Monster Maker (Kobold+)](https://koboldplus.club/)**
 	Custom monster creation.
+
+#### Discord Bots
+* **[Avrae](https://avrae.io/)**
+	Designed to help you and your friends play D&D online.
+
+#### To Be Organized
+* https://dnddmtoolbox.netlify.app/
+* https://www.dnd-compendium.com/
+* https://www.themonstersknow.com/
+* https://2minutetabletop.com/
+* https://arkenforge.com/play-in-person/
+
 
 #### My Obsidian Plugins:
 * Admonition
