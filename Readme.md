@@ -33,12 +33,12 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 
 #### Resource & Lore Books
 
-- **[Z-Library](https://z-lib.gd/)** 
+* **[Z-Library](https://z-lib.gd/)** 
 	Easy accessible sources, guides, lore, resources, modules, and more. 
 
 #### Character Sheets
 
-- **[Hero Diary](https://heros-diary.com/)**
+* **[Hero Diary](https://heros-diary.com/)**
 	Character Sheet manager
 * **[Reroll](https://www.reroll.co/)**
 	Digital Character sheet with pixel art. 
