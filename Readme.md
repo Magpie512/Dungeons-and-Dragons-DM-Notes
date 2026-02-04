@@ -47,7 +47,7 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 
 - **[Owlbear Rodeo](https://www.owlbear.rodeo/)**
 	Lightweight VTT for quick sessions.
-* **[Roll20](https://app.roll20.net/)**
+- **[Roll20](https://app.roll20.net/)**
 	Another lighttweight  VTT with numerous integrations.
 - **[Dungeon Scrawl](https://app.dungeonscrawl.com/)**
 	Fast, browser-based dungeon map maker.
@@ -57,7 +57,7 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 	Tokens, maps, assets, and art packs.
 - **[Forgotten Adventures](https://www.forgotten-adventures.net/)**
 	Huge library of map assets and tokens.
-* **[Lost Atlus](https://lostatlas.co/)**
+- **[Lost Atlus](https://lostatlas.co/)**
 	A vast collection of battle maps.
 
 #### Generators & Randomizers
@@ -70,7 +70,7 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 	Community-made random tables of every kind.
 - **[Fantasy Name Generators](https://www.fantasynamegenerators.com/)**
 	Names for races, towns, ships, monsters, etc.
-* **[RPG Tinker](https://rpgtinker.com/)**
+- **[RPG Tinker](https://rpgtinker.com/)**
 	Character Stat Block Generator
 
 #### NPC, Story & Worldbuilding Tools
@@ -79,7 +79,7 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 	Encounter balancing and monster selection.
 - **[World Anvil](https://www.worldanvil.com/)**
 	Worldbuilding, timelines, lore organization.
-* **[vvd](https://vvd.world/)**
+- **[vvd](https://vvd.world/)**
 	Create, organize, and share your worlds with tools that work as smoothly as your imagination.
 - **[Campfire Writing](https://www.campfirewriting.com/)**
 	Character webs, timelines, plot tools.
@@ -87,7 +87,7 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 	Full world generator with cultures, borders, etc.
 - **[Eigengrau’s Generator](https://eigengrausgenerator.com/?seed=splendidsveltechrysomelid)**
 	Towns, NPCs, shops, rumors, factions.
-* **[Autorolltables](https://autorolltables.github.io/index.html)**
+- **[Autorolltables](https://autorolltables.github.io/index.html)**
 	Table Generators for almost anything you need.
 
 #### Audio & Atmosphere
@@ -98,7 +98,7 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 	Dynamic soundscapes and soundboards.
 - **[Ambient-Mixer](https://www.ambient-mixer.com/)**
 	Custom ambient sound creation.
-* **[Soundpad](https://tabletopaudio.com/soundpad.html)**
+- **[Soundpad](https://tabletopaudio.com/soundpad.html)**
 	Immersive, Interactive Audio Environments.
 
 #### Combat & Encounter Management
@@ -107,9 +107,9 @@ I also write my own campaigns & modules, homebrewed items, creatures, and races.
 	Web-based combat tracker with automation.
 - **Fight Club 5e (App)** - [ios](https://apps.apple.com/us/app/fight-club-5th-edition/id901057473), [Android](https://play.google.com/store/apps/details?id=com.lionsden.fc5&hl=en_CA&pli=1)
 Offline monster & encounter manager.
-* **[The Monsters Know What They're Doing](https://www.themonstersknow.com/)**
+- **[The Monsters Know What They're Doing](https://www.themonstersknow.com/)**
 	Blog about running more immersive and more interesting encounters.
-* **[Kobold+ Fight Club](https://koboldplus.club/)**
+- **[Kobold+ Fight Club](https://koboldplus.club/)**
 	Encounter Manager
 
 #### Loot, Items & Magic
@@ -151,9 +151,9 @@ Offline monster & encounter manager.
 	Custom token creator.
 - **[Dungeon Mapper](https://dungeonmapper.io/)**
 	Easily print out sprawling battle maps for your tabletop RPG sessions.
-* **[Caeora](https://www.caeora.com/token-packs)**
+- **[Caeora](https://www.caeora.com/token-packs)**
 	Free and purchasable token packs.
-* **[1st D&D Token Collection](https://drive.google.com/drive/folders/1cyvyKO0I-C2hhtHvOP3-vBHC84l6P-9f)**
+- **[1st D&D Token Collection](https://drive.google.com/drive/folders/1cyvyKO0I-C2hhtHvOP3-vBHC84l6P-9f)**
 	Google drive of Tokens
 
 #### For Sandbox / Hexcrawl DMs
